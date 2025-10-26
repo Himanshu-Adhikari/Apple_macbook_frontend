@@ -22,4 +22,4 @@ Check out the [TypeScript template](https://github.com/vitejs/vite/tree/main/pac
 ## Live Demo
 
 You can view the hosted version of this project here:  
-[Apple Project Live](https://incredible-conkies-00e40b.netlify.app/)
+[Apple Project Live](https://macm4threejs.netlify.app/)
